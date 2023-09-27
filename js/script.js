@@ -5,8 +5,7 @@ createApp({
     return{
       greetings:'Hello',
       name : 'Vue.js',
-      imageVuejs:'https://vuejs.org/images/logo.png',
-      
+      imageVuejs:'https://vuejs.org/images/logo.png'
     }
   },
   methods :{
